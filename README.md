@@ -1,4 +1,4 @@
-## # Aadhaar Omni-Sync: A Predictive Engine for Infrastructure & Inclusion
+# Aadhaar Omni-Sync: A Predictive Engine for Infrastructure & Inclusion
 Aadhaar Omni-Sync is a data-driven framework designed to optimize the Aadhaar ecosystem. By creating a "Digital Twin" of national logs, this tool balances system capacity with citizen needs. It transforms static administrative data into a prescriptive routing engine for resource deployment.
 
 # 📌 Core Objectives
